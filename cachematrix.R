@@ -1,3 +1,4 @@
+## Created by Vikas
 ## makeCacheMatrix creates a special matrix object, and then cacheSolve 
 ## calculates the inverse of the matrix.
 ## If the matrix inverse has already been calculated, it will instead 
